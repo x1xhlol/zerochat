@@ -60,10 +60,10 @@ A modern, self-hostable AI chat application with real-time messaging, multiple A
 
 ### Manual Setup
 
-\`\`\`bash
+```bash
 # Clone the repository
 git clone https://github.com/x1xhlol/zerochat.git
-cd zero-chat
+cd zerochat
 
 # Install dependencies
 npm install
@@ -73,18 +73,18 @@ cp .env.example .env.local
 
 # Start development server
 npm run dev
-\`\`\`
+```
 
 ### Environment Configuration
 
-\`\`\`env
+```env
 # Required
 REDIS_URL=your_redis_url
 BLOB_READ_WRITE_TOKEN=your_vercel_blob_token
 
 # Optional defaults (users can override in settings)
 GROQ_API_KEY=your_groq_key
-\`\`\`
+```
 
 ## 🏗️ Architecture
 
@@ -105,11 +105,6 @@ Zero Chat is built with modern, scalable technologies:
 - Vercel Blob for file storage
 - Zero configuration required
 
-### Docker Deployment
-\`\`\`bash
-# Coming soon - Docker Compose setup
-docker-compose up -d
-\`\`\`
 
 ### Traditional VPS
 - Any Node.js hosting provider
@@ -121,12 +116,12 @@ docker-compose up -d
 We welcome contributions! Zero Chat is built by developers, for developers.
 
 ### Development Setup
-\`\`\`bash
+```bash
 git clone https://github.com/x1xhlol/zerochat.git
-cd zero-chat
+cd zerochat
 npm install
 npm run dev
-\`\`\`
+```
 
 ### Contributing Guidelines
 1. Fork the repository
