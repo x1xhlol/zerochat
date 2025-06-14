@@ -25,7 +25,7 @@ A modern, self-hostable AI chat application with real-time messaging, multiple A
 ## ✨ Features
 
 ### 🤖 **Multi-Model AI Support**
-- **OpenRouter Integration** - Access OpenAI, Anthropic, Gemini, Grok, Groq and Deepseek, with over 30+ models
+- **OpenRouter Integration** - Access OpenAI, Anthropic, Gemini, xAI, Groq and Deepseek, with over 30+ models
 - **User-Controlled API Keys** - No vendor lock-in, use your own keys
 
 ### 🔄 **Real-Time Experience**
