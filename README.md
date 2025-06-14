@@ -150,7 +150,7 @@ MIT License - see [LICENSE](LICENSE.md) for details.
 
 ## 🙏 Acknowledgments
 
-- **Theo Browne** for inspiring the chat interface design with t3.chat
+- **Theo Browne** for inspiring me with t3.chat to build an open source alternative
 - **Vercel** for the AI SDK and hosting platform
 - **OpenRouter** for unified AI model access
 - **shadcn/ui** for the beautiful component library
