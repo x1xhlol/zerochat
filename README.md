@@ -113,18 +113,17 @@ NEXT_PUBLIC_APP_URL="http://localhost:3000" # Change to your deployed URL in pro
 # Required for Scheduled Cleanup (Vercel Cron or other)
 CLEANUP_API_TOKEN="generate_a_secure_random_string" # Protects the /api/cleanup/sessions endpoint
 
-# Optional AI Provider API Keys (users can also set these in their profile)
-# These act as default fallbacks if a user hasn't set their own.
+# Optional AI Provider API Keys (users  set these in their profile)
 OPENROUTER_API_KEY=""
 GROQ_API_KEY=""
 # ANTHROPIC_API_KEY=""
 # OPENAI_API_KEY=""
 # ... any other models supported via OpenRouter or directly
 
-# KV_URL=""
-# KV_REST_API_URL=""
-# KV_REST_API_TOKEN=""
-# KV_REST_API_READ_ONLY_TOKEN=""
+KV_URL=""
+KV_REST_API_URL=""
+KV_REST_API_TOKEN=""
+KV_REST_API_READ_ONLY_TOKEN=""
 ```
 
 **Important:**
