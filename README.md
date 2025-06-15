@@ -171,7 +171,7 @@ This setup offers a highly scalable, serverless architecture with minimal config
 We welcome contributions! Zero Chat is built by developers, for developers.
 
 ### Development Setup
-\`\`\`bash
+```bash
 # Ensure you have Node.js (v18+ recommended) and npm/yarn/pnpm
 git clone https://github.com/x1xhlol/zerochat.git
 cd zerochat
@@ -181,7 +181,7 @@ npm install # or yarn install / pnpm install
 # (For local dev, you might skip some optional keys or use mock values for non-critical services)
 
 npm run dev
-\`\`\`
+```
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ### Contributing Guidelines
