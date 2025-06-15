@@ -38,7 +38,7 @@ A modern, self-hostable AI chat application with real-time messaging, multiple A
 ### 🔄 **Real-Time Experience**
 - **Live Chat Sync** - Messages appear instantly across devices using Redis Pub/Sub and Server-Sent Events.
 - **Typing Indicators** - Know when AI or other users are responding.
-- **Stream Resumption** - Designed to handle connection drops gracefully (feature in progress).
+- **Stream Resumption** - Designed to handle connection drops gracefully.
 - **Presence Indicators** - Real-time connection status.
 
 ### 📁 **Advanced Organization**
