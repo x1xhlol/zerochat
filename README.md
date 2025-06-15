@@ -121,7 +121,6 @@ GROQ_API_KEY=""
 # OPENAI_API_KEY=""
 # ... any other models supported via OpenRouter or directly
 
-# KV Store (Optional, for future features or if you prefer Vercel KV over Upstash for some data)
 # KV_URL=""
 # KV_REST_API_URL=""
 # KV_REST_API_TOKEN=""
