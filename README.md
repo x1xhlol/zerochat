@@ -74,6 +74,7 @@ A modern, self-hostable AI chat application with real-time messaging, multiple A
 ### One-Click Deploy
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/x1xhlol/zerochat)
+
 *Note: You will need to set up environment variables on Vercel.*
 
 ### Manual Setup
